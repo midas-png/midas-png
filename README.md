@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a frontend developer who loves to create something new and solve coding issues.
+
+- 🌐 Visit my [porfolio website](https://midas-png.github.io/portfolio/) for complete background and contact.
+
+---
+ <img src = "https://github-readme-streak-stats.herokuapp.com?user=midas-png&theme=dark&hide_border=true" width = 400>
+
 <!--
 **midas-png/midas-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
