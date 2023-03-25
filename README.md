@@ -8,7 +8,7 @@
 ## ⚡️ Quick Facts
 <ul>
 <li>🔭 I’m currently searching for a job</li>
-<li>🧐 Learning about <strong>Vue.js</strong> and <strong>server side rendering</strong></li>
+<li>🧐 Learning about <strong>Vue.js</strong>, <strong>3D objects animation</strong>  and <strong>server side rendering</strong></li>
 <li>👨‍🎓 Currently study at private college</li>
 <li>🎉 Fun Fact: сhtěl jsem být překladatel.</li>
 </ul>
