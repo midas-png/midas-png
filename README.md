@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 I am a frontend developer who loves to create new and solve coding issues.
+👨‍💻 I am a fullstack developer who loves to create new and solve coding issues.
 
 - 🌐 Visit my [porfolio website](https://midas-png.github.io/portfolio/) for complete background.
 
