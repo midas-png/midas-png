@@ -1,15 +1,17 @@
 ### Hi there 👋
 
-👨‍💻 I am a fullstack developer who loves to create new and solve coding issues.
+👨‍💻 I am a **Frontend Software Engineer** who loves to create new and solve coding issues.
 
 - 🌐 Visit my [porfolio website](https://midas-png.github.io/portfolio/) for complete background.
 
 ---
 ## ⚡️ Quick Facts
 <ul>
-<li>🧐 Learning about <strong>Vue.js</strong>, <strong>3D objects animation</strong>  and <strong>server side rendering</strong></li>
-<li>👨‍🎓 Currently study at private college</li>
-<li>🎉 Fun Fact: сhtěl jsem být překladatel.</li>
+<li>3+ years of experience</li>
+<li>Writer on <a href="https://dev.to/m_midas">dev.to</a> and <a href="https://hackernoon.com/u/mmmidas">HackerNoon</a></li>
+<li>Feature-Sliced Design Contributor</li>
+<li>Love mentoring сolleagues</li>
+<li>Fun Fact: сhtěl jsem být překladatel</li>
 </ul>
 
 ## 🚀 Some Technologies I Use
