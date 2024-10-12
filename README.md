@@ -1,17 +1,25 @@
-### Hi there 👋
+## Hi there 👋
 
-👨‍💻 I am a **Frontend Software Engineer** who loves to create new and solve coding issues.
+👨‍💻 I am a **Middle+ Frontend Developer** who loves to create new and solve coding issues.
+22 y.o.  •  :ru: :us:
 
-- 🌐 Visit my [porfolio website](https://midas-png.github.io/portfolio/) for complete background.
+My Tech Stack:
+- 🚀 React, Next.js, Redux, Mobx
+- 🌐 TypeScript, JavaScript
+- 🛠️ Vite, Webpack, NPM
+- 🚦 Git, Docker, GitHub Actions, Nginx, Linux (Ubuntu)
+- 🔍 Jest, RTL, Cypress
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/yan-levin/)!
 
 ---
 ## ⚡️ Quick Facts
 <ul>
-<li>3+ years of experience</li>
-<li>Writer on <a href="https://dev.to/m_midas">dev.to</a> and <a href="https://hackernoon.com/u/mmmidas">HackerNoon</a></li>
+<li>3.5 years of experience</li>
+<li>Worked on highload B2B services, ed-tech projects and ERP system</li>
+<li>Writing articles on <a href="https://dev.to/m_midas">dev.to</a> and <a href="https://hackernoon.com/u/mmmidas">HackerNoon</a></li>
 <li>Feature-Sliced Design Contributor</li>
-<li>Love mentoring сolleagues</li>
-<li>Fun Fact: сhtěl jsem být překladatel</li>
+<li>Mentor for junior devs and interns</li>
 </ul>
 
 ## 🚀 Some Technologies I Use
@@ -31,10 +39,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sass" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
