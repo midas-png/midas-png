@@ -20,6 +20,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/yan-levin/)!
 <li>Writing articles on <a href="https://dev.to/m_midas">dev.to</a> and <a href="https://hackernoon.com/u/mmmidas">HackerNoon</a></li>
 <li>Feature-Sliced Design Contributor</li>
 <li>Mentor for junior devs and interns</li>
+<li>Was invited to speak at a frontend conference</li>
 </ul>
 
 ## 🚀 Some Technologies I Use
