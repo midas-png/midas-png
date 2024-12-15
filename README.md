@@ -3,16 +3,6 @@
 👨‍💻 I am a **Middle+ Frontend Developer** who loves to create new and solve coding issues.
 22 y.o.  •  :ru: :us:
 
-My Tech Stack:
-- 🚀 React, Next.js, Redux, Mobx
-- 🌐 TypeScript, JavaScript
-- 🛠️ Vite, Webpack, NPM
-- 🚦 Git, Docker, GitHub Actions, Nginx, Linux (Ubuntu)
-- 🔍 Jest, RTL, Cypress
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yan-levin/)!
-
----
 ## ⚡️ Quick Facts
 <ul>
 <li>3.5 years of experience</li>
